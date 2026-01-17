@@ -15,7 +15,7 @@ This project is developed as a 6th Semester Minor Project and is fully industry-
 
 **Source: Public Retail Sales Dataset (CSV)**
 
-- Main Columns:
+- ** Main Columns:**
 - transactions_id
 - sale_date, sale_time
 - customer_id
@@ -34,7 +34,7 @@ This project is developed as a 6th Semester Minor Project and is fully industry-
 -Seaborn (Statistical Visualization)
 - Jupyter Notebook / VS Code
 
-GitHub
+
 
 **🎯 Key Business Objectives**
 - Analyze overall revenue and profit
@@ -59,6 +59,12 @@ GitHub
  - Profitability varies across categories, not always matching high sales volume.
 
 
+
+## 👨‍🎓 Author
+**Arjun Kumar**  
+B.Tech (6th Semester)  
+Minor Project – Data Analytics  
+India  
 
 
 
